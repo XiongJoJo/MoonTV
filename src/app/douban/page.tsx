@@ -270,9 +270,9 @@ function DoubanPageClient() {
             <h1 className='text-2xl sm:text-3xl font-bold text-gray-800 mb-1 sm:mb-2 dark:text-gray-200'>
               {getPageTitle()}
             </h1>
-            <p className='text-sm sm:text-base text-gray-600 dark:text-gray-400'>
+{/*             <p className='text-sm sm:text-base text-gray-600 dark:text-gray-400'>
               来自豆瓣的精选内容
-            </p>
+            </p> */}
           </div>
 
           {/* 选择器组件 */}
